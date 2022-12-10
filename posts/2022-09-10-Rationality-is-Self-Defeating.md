@@ -1,7 +1,4 @@
 ---
-created: 2022-09-29T12:45:43 (UTC -07:00)
-tags: []
-source: https://bford.info/2019/09/23/rational/
 author: Bryan Ford
 title:  Rationality is Self-Defeating in Permissionless Systems
 layout: layouts/post.njk
